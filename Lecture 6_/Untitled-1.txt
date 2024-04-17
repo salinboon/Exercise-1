@@ -1,0 +1,23 @@
+class juego_de_jarras:
+    
+    def llenar_la_jarra_de_3_litros():
+        return 'Llenando jarra de 3 litros'
+
+
+    def llenar_la_jarra_de_5_litros():
+        return 'Llenando jarra de 5 litros'
+
+
+    def vaciar_la_jarra_de_3_litros():
+        return 'Vaciar jarra de 3 litros'
+
+
+    def vaciar_la_jarra_de_5_litros():
+        return 'Vaciar la jarra de 5 litros'
+
+
+    def Verter_el_contenido_de_la_jarra_de_3_litros_en_la_de_5_litros():
+        return 'Verter el contenido de la jarra de 3 litros en la de 5 litros'
+
+    def Verter_el_contenido_de_la_jarra_de_5_litros_en_la_de_3_litros():
+        return 'Verter el contenido de la jarra de 5 litros en la de 3 litros'
